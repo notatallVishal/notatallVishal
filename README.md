@@ -1,7 +1,7 @@
 # `vishal.` 
-9@notatallVishal)
+(@notatallVishal)
 
-Undergraduate Electrical and Computer Engineering Student. Check out my website at [https://notatallvishal.github.io/]([url](https://notatallvishal.github.io/)).
+Undergraduate Electrical and Computer Engineering Student. Check out my website at [https://notatallvishal.github.io/](https://notatallvishal.github.io/).
 
 Academic Interests:
 - 💾 Computer Architecture
