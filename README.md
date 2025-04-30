@@ -1,9 +1,11 @@
-vishal. (@notatallVishal)
+# `vishal.` 
+9@notatallVishal)
 
-Undergraduate Electrical and Computer Engineering Student.
+Undergraduate Electrical and Computer Engineering Student. Check out my website at [https://notatallvishal.github.io/]([url](https://notatallvishal.github.io/)).
 
 Academic Interests:
 - 💾 Computer Architecture
+- ⚡ Physical Design
 - 🔬 Quantum Computing
 - 🥼 All things Science
 
